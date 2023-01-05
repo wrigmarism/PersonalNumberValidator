@@ -1,0 +1,15 @@
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.csproj.AssemblyReference.cache
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.AssemblyInfoInputs.cache
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.AssemblyInfo.cs
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.csproj.CoreCompileInputs.cache
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\bin\Debug\net6.0\ValidatePersonalNumber.exe
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\bin\Debug\net6.0\ValidatePersonalNumber.deps.json
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\bin\Debug\net6.0\ValidatePersonalNumber.runtimeconfig.json
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\bin\Debug\net6.0\ValidatePersonalNumber.dll
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\bin\Debug\net6.0\ValidatePersonalNumber.pdb
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.dll
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\refint\ValidatePersonalNumber.dll
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.pdb
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ValidatePersonalNumber.genruntimeconfig.cache
+C:\Users\chrwri\source\repos\ValidatePersonalNumber\obj\Debug\net6.0\ref\ValidatePersonalNumber.dll
